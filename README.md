@@ -2,11 +2,6 @@
 
 StockEase is a modern **inventory and stock management application** designed to help businesses efficiently manage products, prices, and stock levels. The system provides an easy-to-use interface with smooth CRUD operations and real-time updates.
 
----
-
-## 🌐 Live Application
-🔗 Live Demo: https://tempvista.netlify.app/
-
 
 ---
 
